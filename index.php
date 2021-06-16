@@ -1,7 +1,8 @@
 <?php
-@author : Ludovic Riaudel - ludovic@riaudel.net
 /***
 * Allows you to read the last x lines of a log file
+* @author : Ludovic Riaudel <ludovic@riaudel.net>
+*
 * $filename	url log file
 * $maxLineLength	number of line
 **/
